@@ -23,8 +23,8 @@ End of the Program.
 
 ## Program:
 ```
-Name: Paul Andrew D
-Reg.no: 212221230075
+Name: Gunaseelan G
+Reg.no: 212221230031
 ```
 ```C#
 using System;
@@ -94,7 +94,8 @@ class employee
 
  ```
  ## Output:
-![](./ot1.PNG)
+![ex4 arvr](https://github.com/Guru-Guna/Ex04-Constructor/assets/93427255/948b661b-f31e-46f4-984d-bbdb7df55a45)
+
  
  ## Result:
  Hence, a C# program to calculate the salary of an employee by passing the name, designation, years of experience, basic salary and insurance amount through constructor is executed successfully
